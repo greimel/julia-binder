@@ -614,6 +614,12 @@ git-tree-sha1 = "aa6e87a2361c2fe5a63b1a6a4b567f13aa108991"
 uuid = "f57f5aa1-a3ce-4bc8-8ab9-96f992907883"
 version = "0.3.5"
 
+[[PackageCompiler]]
+deps = ["Libdl", "Pkg", "UUIDs"]
+git-tree-sha1 = "d448727c4b86be81b225b738c88d30334fda6779"
+uuid = "9b87118b-4619-50d2-8e1e-99f35a4d4d9d"
+version = "1.2.5"
+
 [[Packing]]
 deps = ["GeometryBasics"]
 git-tree-sha1 = "f4049d379326c2c7aa875c702ad19346ecb2b004"
