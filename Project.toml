@@ -1,6 +1,6 @@
 [deps]
-Gadfly = "c91e804a-d5a3-530f-b6f0-dfbca275c004"
-RDatasets = "ce6b1742-4840-55fa-b093-852dadbb1d8b"
+AbstractPlotting = "537997a7-5e4e-5d89-9595-2241ea00577e"
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
 
 [compat]
 julia = "1.5"
